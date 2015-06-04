@@ -7,6 +7,14 @@ common/messaging/
 services/
 test/
 ../database/
+../database-crossriver/
+../database-jigawa/
+../database-kaduna/
+../database-kano/
+../database-kogi/
+../database-ondo/
+../database-katsina/
+../database-anambra/
 
 
 # Identifies the subfolders and files to ignore from the 
