@@ -29,7 +29,7 @@ Thumbs.db
 thumbs.db
 *.pdf
 *.log
-*.backup
+../database-anambra/data/*.backup
 msg.txt
 
 
