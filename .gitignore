@@ -29,6 +29,7 @@ Thumbs.db
 thumbs.db
 *.pdf
 *.log
+*.backup
 msg.txt
 
 
